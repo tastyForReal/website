@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"cheerio": "^1.0.0-rc.12",
-		"esbuild": "^0.23.0",
+		"esbuild": "^0.24.0",
 		"express": "^4.19.2",
 		"rehype-autolink-headings": "^7.1.0",
 		"rehype-slug": "^6.0.0",
